@@ -1,0 +1,13 @@
+__pycache__
+logs
+resources/stats*
+test
+config.ini
+
+.env
+*.zip
+*.sh
+
+/node_modules
+/src
+/package*
